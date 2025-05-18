@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Kaustubh Sankhe
 # A passionate full stack developer from India
 
-##🌐 Socials
+## 🌐 Socials
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://twitter.com/void.kaustubh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustubh_sankhe" height="30" width="40" />
