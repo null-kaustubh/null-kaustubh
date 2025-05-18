@@ -3,7 +3,7 @@
 
 ### 🌐 Socials
 <div style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://twitter.com/void.kaustubh" target="blank">
+  <a href="https://twitter.com/kaustubh_sankhe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustubh_sankhe" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/kaustubhsankhe" target="blank">
