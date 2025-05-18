@@ -1,7 +1,7 @@
-### Hi 👋, I'm Kaustubh Sankhe
-# A passionate full stack developer from India
+## Hi 👋, I'm Kaustubh Sankhe
+<p>A passionate full stack developer from India </p>
 
-## 🌐 Socials
+### 🌐 Socials
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://twitter.com/void.kaustubh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustubh_sankhe" height="30" width="40" />
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around;">
   <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -31,11 +31,11 @@
   <img src="https://img.shields.io/badge/render-%230066CC.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </div>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=null-kaustubh&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-kaustubh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 😎 Fun Fact:
+### 😎 Fun Fact:
 When I'm not coding, you can find me gaming or making cool stuff on photoshop.
