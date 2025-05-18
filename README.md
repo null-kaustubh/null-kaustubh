@@ -3,6 +3,12 @@
 
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://instagram.com/kaustubh.yes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubh.yes" height="30" width="40" />
+  </a>
+  <a href="https://www.behance.net/visual void" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="visual void" height="30" width="40" />
+  </a>
   <a href="https://twitter.com/kaustubh_sankhe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustubh_sankhe" height="30" width="40" />
   </a>
