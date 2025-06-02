@@ -49,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-kaustubh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=null-kaustubh&label=Profile%20views&color=1A1A1D&style=for-the-badge" alt="null-kaustubh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=null-kaustubh&label=Profile%20views&color=191919&style=for-the-badge" alt="null-kaustubh" /> </p>
 
 ## 😎 Fun Fact:
 When I'm not coding, you can find me gaming or making cool stuff on photoshop.
