@@ -6,7 +6,7 @@
   <a href="https://instagram.com/kaustubh.yes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubh.yes" height="30" width="40" />
   </a>
-  <a href="https://www.behance.net/visual void" target="blank">
+  <a href="https://www.behance.net/voidviz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="visual void" height="30" width="40" />
   </a>
   <a href="https://twitter.com/kaustubh_sankhe" target="blank">
@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/nextauth-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -46,6 +48,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=null-kaustubh&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-kaustubh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=null-kaustubh&label=Profile%20views&color=1A1A1D&style=for-the-badge" alt="null-kaustubh" /> </p>
 
 ## 😎 Fun Fact:
 When I'm not coding, you can find me gaming or making cool stuff on photoshop.
