@@ -47,7 +47,6 @@
 ## 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=null-kaustubh&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=null-kaustubh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=null-kaustubh&label=Profile%20views&color=191919&style=for-the-badge" alt="null-kaustubh" /> </p>
