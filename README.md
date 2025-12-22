@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Kaustubh Sankhe
-<p>A passionate full stack developer from India </p>
+<p>A full stack developer from India </p>
 
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 15px;">
